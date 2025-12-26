@@ -1,0 +1,6 @@
+{
+  "name": "z-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": { "ethers": "^5.7.2" }
+}
